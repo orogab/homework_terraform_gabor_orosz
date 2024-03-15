@@ -20,3 +20,4 @@ terraform init
 terraform plan
 terraform aply
 
+#README.txt tartalmazza a terraform-docs alkalmazással generált tartalmat.
